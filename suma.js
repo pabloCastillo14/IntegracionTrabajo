@@ -1,4 +1,4 @@
-funtion suma(a,b){
+function suma(a,b){
 return parseInt(a)+pasrseInt(b);
 
 }

@@ -1,1 +1,14 @@
-"name": "Git"
+ {
+        "name": "github-actions",
+        "description": "description",
+        "authors": "author",
+        "version": "1.0.0",
+        "main": "suma.js",
+        "dependencies": {},
+        "scripts": {
+            "test": "jest",
+            "build": "node suma"
+
+        }
+}
+
