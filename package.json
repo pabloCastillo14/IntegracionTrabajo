@@ -1,1 +1,17 @@
-"name": "Git"
+{"name": "github",
+"version":"1.8.0",
+"description": "",
+"main": "suma.js",
+"scripts": {
+    "test": "jest",
+    "build":"node suma"
+},"repository": {
+"type": "git",
+"url": "https://github.com/pabloCastillo14/IntegracionTrabajo.git"
+
+
+},
+
+"author": ""
+
+}
